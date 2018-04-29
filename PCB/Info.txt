@@ -1,0 +1,9 @@
+Board size is 100mm x 50mm
+
+Technology Data: 
+0.15mm (6mil) minimum trace width
+0.15mm (6mil) minimum distance
+0.4mm minimum hole size 
+
+Format for Drill / Gerber Files:
+4:4 metric
